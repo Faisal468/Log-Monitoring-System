@@ -1,0 +1,9 @@
+
+
+ERROR HIGH msg:"System error occurred"; id:1001;
+WARNING MEDIUM msg:"Potential issue detected"; id:1002;
+INFO HIGH msg:"Informational log entry"; id:1003;
+LOGIN HIGH msg:"Unauthorized login attempt"; id:1004;
+SHUTDOWN CRITICAL msg:"System is shutting down"; id:1005;
+DEBUG MEDIUM msg:"Debugging mode enabled"; id:1006;
+

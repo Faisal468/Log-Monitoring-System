@@ -1,0 +1,6 @@
+TIME:2025-08-31 01:30:10 LEVEL:NO ALERT MSG:"Unrecognized event" ID:N/A
+TIME:2025-08-31 01:31:30 LEVEL:HIGH MSG:msg:"Informational log entry"; ID:id:1003;
+TIME:2025-08-31 01:31:45 LEVEL:NO ALERT MSG:"Unrecognized event" ID:N/A
+TIME:2025-08-31 01:32:50 LEVEL:HIGH MSG:msg:"Unauthorized login attempt"; ID:id:1004;
+TIME:2025-08-31 01:33:10 LEVEL:CRITICAL MSG:msg:"System is shutting down"; ID:id:1005;
+TIME:2025-08-31 01:32:45 LEVEL:MEDIUM MSG:msg:"Debugging mode enabled"; ID:id:1006;
